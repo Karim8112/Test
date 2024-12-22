@@ -1,2 +1,3 @@
 # Test
-this is test for learning git commands 
+
+this is a test for learning git
